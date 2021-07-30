@@ -5,12 +5,12 @@ import CourseModulesEmbeddedVars from "../components/exercises/02_embeddedVariab
 import CourseModulesWithProps from "../components/exercises/03_props";
 import CourseModulesCollections from "../components/exercises/04_iteration";
 
-const name = "HDip Computer Science";
+const name = "BsC Applied Computing";
 const modules = [
   {
-    name: "DevOps",
-    noLectures: 1,
-    noPracticals: 2
+    name: "Game Practicuum",
+    noLectures: 3,
+    noPracticals: 3
   },
   {
     name: "Enterprise Web Dev",
